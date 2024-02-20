@@ -1,0 +1,38 @@
+.container {
+  border: 1px solid rgb(10, 5, 5);
+  padding: 50px;
+  /* background-image: url(../images/back2.jpg);
+  background-size: cover; */
+  background: rgb(34, 193, 195);
+  background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  border-radius: 5px;
+
+
+}
+
+.userImg {
+  width: 170px;
+  height: 145px;
+  margin-left: 100px;
+  border-radius: 120px;
+}
+
+
+
+.first {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.second {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.mybutton {
+  margin-top: 10px;
+  margin-left: 40%;
+}
